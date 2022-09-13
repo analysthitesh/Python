@@ -1,0 +1,8 @@
+
+print('Welcome to the Pixel Club')
+
+city = input('In which city were you raised?\n')
+
+pet = input('What is the name if your pet?\n')
+
+print('Your band name is ' + city + ' ' + pet)
